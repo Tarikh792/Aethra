@@ -184,6 +184,10 @@ AI Engineering & Generative AI Applications
 
 GitHub: [@Tarikh792](https://github.com/Tarikh792)
 
+## 🎬 Project Demo
+
+[▶ Watch Aethra Demo Video](./Aethra%20Portfolio%20Demo.mp4)
+
 ---
 
 Built to explore practical AI engineering through a custom Retrieval-Augmented Generation pipeline.
